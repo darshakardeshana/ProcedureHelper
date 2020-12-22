@@ -1,0 +1,7 @@
+CountryID,int
+CountryName,varchar(100)
+CountryCode,varchar(25)
+ModifiedBy,int
+UserID,int
+CreationDate,datetime
+ModificationDate,datetime
